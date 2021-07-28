@@ -1,0 +1,21 @@
+#carouselExampleControls {
+    background-color: #FCEAE8;
+    height: 500px;
+  }
+
+  .buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+  }
+  .price {
+  color: #FF136F;
+}
+.category-height{
+  height: 107px;
+}
+.subscribe{
+  background-color: #FCEAE8;
+}
